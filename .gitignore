@@ -28,3 +28,6 @@ Manifest.toml
 
 # VS code folder
 .vscode/*
+
+# Notebook checkpoints
+**/.ipynb_checkpoints/*
